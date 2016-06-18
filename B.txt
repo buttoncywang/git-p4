@@ -1,0 +1,4 @@
+BCDE
+EDCB
+CDEF
+FEDC
